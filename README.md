@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on school
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning nodejs and reactjs
 - 👯 I’m looking to collaborate on dance
 - 🤔 I’m looking for help with webhook
 - 💬 Ask me about JavaScript,vue
