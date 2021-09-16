@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning nodejs and reactjs
 - 👯 I’m looking to collaborate on dance
 - 🤔 I’m looking for help with webhook
-- 💬 Ask me about JavaScript,vue
+- 💬 Ask me about JavaScript,vue，react
 - 📫 How to reach me: 646438164@qq.com
 - 😄 Pronouns: haha
 - ⚡ Fun fact: I'm bald
