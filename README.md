@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about JavaScript,vue，react
 - 📫 How to reach me: 646436164@qq.com
 - 😄 Pronouns: haha
-- ⚡ Fun fact: I'm bald
+- ⚡ Fun fact: I'm find
