@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 646436164@qq.com
 - 😄 Pronouns: haha
 - ⚡ Fun fact: I'm find
+  -nest-admin
